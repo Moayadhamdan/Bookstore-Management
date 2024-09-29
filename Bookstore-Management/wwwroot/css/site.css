@@ -20,3 +20,15 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.text-primary {
+    color: #007bff;
+}
+
+.font-weight-bold {
+    font-weight: 700;
+}
+
+.shadow-lg {
+    box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.175);
+}
